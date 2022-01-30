@@ -1,2 +1,2 @@
 # ResolverChallenges
-Automation Challenges
+Automation Challenges for Resolver
